@@ -35,6 +35,8 @@ the motor direction.
 10. Chassis
 
 ![image](https://github.com/faatthy/Autonomous-car/assets/110846097/c522f68f-6853-4788-9fb7-435a20ea68a9)
+<img width="595" alt="223727158-485945ea-5ef5-41db-95ee-fd6f83afc948" src="https://github.com/faatthy/Glove-For-Deaf/assets/110846097/f6b93df9-53ee-4bcc-843a-e0174b2d3dfa">
+
 
 ![image](https://github.com/faatthy/Controlling-Car-with-Hand-Mtion/assets/110846097/bae843d0-e227-465e-91fe-22cb16b402f7)
 
