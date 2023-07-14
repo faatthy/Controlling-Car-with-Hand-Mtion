@@ -33,6 +33,7 @@ the motor direction.
 8. Motors.
 9. Caster wheel.
 10. Chassis
+
 ![image](https://github.com/faatthy/Autonomous-car/assets/110846097/c522f68f-6853-4788-9fb7-435a20ea68a9)
 
 ![image](https://github.com/faatthy/Controlling-Car-with-Hand-Mtion/assets/110846097/bae843d0-e227-465e-91fe-22cb16b402f7)
