@@ -8,8 +8,12 @@ fingers.
 posture.    
 ❑ According to the finger posture, the car will move.   
 ❑ Thumb posture controls the speed of motors.    
-# Hand Module 
+# CAR Module 
 ![image](https://github.com/faatthy/Controlling-Car-with-Hand-Mtion/assets/110846097/5cbc97d2-9da3-4552-babe-542178fe4bc3)
+
+# Hand Module 
+![image](https://github.com/faatthy/Controlling-Car-with-Hand-Mtion/assets/110846097/9c1ec7ca-a75a-4a39-ab37-51d3a98e8bf6)
+
 
 # Specifications –Flexible Sensor, BT module
 1. They are used to detect any motion of fingers, every finger must 
