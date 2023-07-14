@@ -27,8 +27,8 @@ the motor direction.
 2. 5x flexible sensor.
 3. Gloves && Wires.
 4. 2x Battery 3.7 V.
-5.LM7805 voltage regulator, 2x 22uf capacitor.
-6.2x HC-05.
+5.LM7805 voltage regulator, 2x 22uf capacitor. 
+6.2x HC-05.   
 7. L293D.
 8. Motors.
 9. Caster wheel.
